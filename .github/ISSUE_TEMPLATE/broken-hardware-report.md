@@ -14,6 +14,7 @@ assignees: hakasapl
 * Cluster Membership: ``
 * Cluster Node Name (`wrk-XY`): ``
 * Serial #: ``
+* Physical Location (`RX-PX-CX UX`): ``
 
 ## Describe the issue the node is experiencing
 
