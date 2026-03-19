@@ -11,6 +11,7 @@ assignees: hakasapl
 
 * Node Name: ``
 * Node Type: ``
+* Cluster Membership: ``
 * Cluster Node Name (`wrk-XY`): ``
 * Serial #: ``
 
